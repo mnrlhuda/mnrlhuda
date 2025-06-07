@@ -3,7 +3,7 @@
 
 <!-- Animasi Deskripsi (pakai gif Text atau SVG Typing effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Informatics+Student;currently+studying+Web+Development+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Informatics+Student;Currently+Studying+Web+Development+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Stats Badge -->
