@@ -39,12 +39,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 </p>
 
-<style>
-  p img {
-    margin: 5px;
-  }
-</style>
-
 
 <!-- Fun Fact / Motivasi -->
 ## ✨ Fun Fact
