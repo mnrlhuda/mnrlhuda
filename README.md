@@ -1,30 +1,24 @@
-<!-- Animated Header with Gradient -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Muhammad+Nurul+Huda" alt="Animated Greeting" />
-</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Muhammad Nurul Huda</h1>
+<h3 align="center">Informatics Student 🎓 | Full-Stack Web Developer 💻 | Open Source Enthusiast 🤝 | Continuous Learner 📚</h3>
 
-<!-- Subtitle with Wave Divider -->
+<!-- Wave Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </div>
 
-<!-- Animated Description -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=Informatics+Student+🎓;Full-Stack+Web+Developer+💻;Open+Source+Enthusiast+🤝;Continuous+Learner+📚" alt="Typing SVG" />
-</p>
-
-<!-- GitHub Stats with Neat Layout -->
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnrlhuda&theme=tokyonight" alt="Profile Details"/>
-  
+
   <br/>
-  
+
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mnrlhuda&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mnrlhuda&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnrlhuda&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
 </div>
 
-<!-- Tools Section with Animated Icons -->
+<!-- Tech Stack -->
 ## 🛠 Tech Stack & Tools
 
 ### 🔍 Frontend Development
@@ -56,11 +50,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Coding Activity Graph -->
 ## 📈 Coding Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mnrlhuda&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnrlhuda&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Motivational Section -->
+<!-- Motivational Quotes -->
 ## ✨ Words to Code By
 > "First, solve the problem. Then, write the code."  
 > "The only way to learn a new programming language is by writing programs in it."  
@@ -80,7 +74,7 @@
   </a>
 </p>
 
-<!-- Animated Footer -->
+<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true"/>
 </div>
