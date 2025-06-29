@@ -56,9 +56,9 @@
 
 <!-- Motivational Quotes -->
 ## ✨ Words to Code By
-> "First, solve the problem. Then, write the code."  
-> "The only way to learn a new programming language is by writing programs in it."  
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+> "Code is like humor. When you have to explain it, it’s bad."  
+> "The best way to learn is by doing. Stop waiting, start coding."  
+> "Behind every bug is a lesson waiting to be learned."
 
 <!-- Footer Wave -->
 <div align="center">
