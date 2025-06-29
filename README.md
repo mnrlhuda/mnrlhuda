@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Nurul Huda</h1>
-<h3 align="center">Informatics Student 🎓 | Full-Stack Web Developer 💻 | Open Source Enthusiast 🤝 | Continuous Learner 📚</h3>
+<h3 align="center">Informatics Student 🎓 | Full-Stack Web Developer 💻 | Continuous Learner 📚</h3>
 
 <!-- Wave Divider -->
 <div align="center">
@@ -59,20 +59,6 @@
 > "First, solve the problem. Then, write the code."  
 > "The only way to learn a new programming language is by writing programs in it."  
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
-
-<!-- Contact Section -->
-## 📫 Let's Connect!
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
 
 <!-- Footer Wave -->
 <div align="center">
