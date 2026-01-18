@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi, I'm Muhammad Nurul Huda 👋</h1>
 
 <div align="center">
@@ -14,33 +14,36 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnrlhuda&theme=tokyonight"
     alt="Profile Details"
   />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img
-    height="170"
     src="https://github-readme-stats.vercel.app/api?username=mnrlhuda&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
     alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
+    src="https://streak-stats.demolab.com?user=mnrlhuda&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mnrlhuda&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img
-    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnrlhuda&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
     alt="Top Languages"
   />
-</div>
+</p>
 
 ---
 
@@ -53,17 +56,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-  <br/>
-
+<p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-  <br/>
-
+<p align="center">
   <!-- Database & Design -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -90,6 +93,6 @@
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
+    alt="GitHub Contribution Snake"
   />
 </div>
